@@ -60,28 +60,28 @@ const Modal = ({ onClose, children, title }) => {
 };
 
 const StyledModalBody = styled.div`
-    padding-top: 10px;
-  `;
+  padding-top: 10px;
+`;
 
 const StyledModalHeader = styled.div`
-    display: flex;
-    justify-content: flex-end;
-    font-size: 25px;
-  `;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 25px;
+`;
 
 // the wrapper component
 const StyledModalWrapper = styled.div`
-    width: 500px;
-    height: 600px;
-    `;
+  width: 500px;
+  height: 600px;
+`;
 
 const StyledModal = styled.div`
-    background: white;
-    height:100%;
-    width:100%;
-    border-radius: 15px;
-    padding: 15px;
-  `;
+  background: white;
+  height:100%;
+  width:100%;
+  border-radius: 15px;
+  padding: 15px;
+`;
 
 const StyledModalOverlay = styled.div`
     position: absolute;
