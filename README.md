@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Important: You need to use Node v14, in order to run the current version. Update coming soon.
+
 First, run the development server:
 
 ```bash
