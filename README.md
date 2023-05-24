@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The old casebase for "Modal component with Next.js"(https://devrecipes.net/modal-component-with-next-js/) tutorial in [devrecipes.net](https://devrecipes.net).
+It uses Next.js v10. Make sure to use Node v14. 
 
 ## Getting Started
 
