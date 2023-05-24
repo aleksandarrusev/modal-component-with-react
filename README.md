@@ -1,4 +1,4 @@
-The old casebase for "Modal component with Next.js"(https://devrecipes.net/modal-component-with-next-js/) tutorial in [devrecipes.net](https://devrecipes.net).
+The old casebase for ["Modal component with Next.js"](https://devrecipes.net/modal-component-with-next-js/) tutorial in [devrecipes.net](https://devrecipes.net).
 It uses Next.js v10. Make sure to use Node v14. 
 
 ## Getting Started
